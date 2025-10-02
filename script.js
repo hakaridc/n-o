@@ -26,7 +26,7 @@ let alvo = {
 
 // Variáveis do fundo
 let imagemFundo = new Image();
-imagemFundo.src = 'background.jpg'; // Caminho da imagem de fundo
+imagemFundo.src = 'background.png'; // Caminho da imagem de fundo
 
 // Carregar imagens do jogador e alvo
 const imagemJogador = new Image();
